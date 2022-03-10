@@ -75,7 +75,6 @@ namespace PixelGraph.Common.IO
                 ["Substance_graph_SSS"] = TextureTags.SubSurfaceScattering,
                 ["Substance_graph_emissive"] = TextureTags.Emissive,
                 ["inventory"] = TextureTags.Item,
-                [$"{name}_graph_normal"] = TextureTags.Color,
             };
 
             GlobalMap = new Dictionary<string, Func<string, string>>(StringComparer.InvariantCultureIgnoreCase) {
