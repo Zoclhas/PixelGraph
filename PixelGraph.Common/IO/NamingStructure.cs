@@ -78,7 +78,7 @@ namespace PixelGraph.Common.IO
                 [TextureTags.Color] = name => name,
                 [TextureTags.Opacity] = name => $"{name}_graph_opacity",
                 [TextureTags.Height] = name => $"{name}_graph_height",
-                [TextureTags.Bump] = name => $"{name}_graph_basecolor",
+                [TextureTags.Color] = name => $"{name}_graph_basecolor",
                 [TextureTags.Normal] = name => $"{name}_graph_normal",
             };
 
