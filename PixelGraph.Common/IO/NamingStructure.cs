@@ -74,6 +74,7 @@ namespace PixelGraph.Common.IO
                 ["Substance_graph_roughness"] = TextureTags.Rough,
                 ["Substance_graph_SSS"] = TextureTags.SubSurfaceScattering,
                 ["Substance_graph_emissive"] = TextureTags.Emissive,
+                ["Substance_graph_opacity"] = TextureTags.Opacity,
                 ["inventory"] = TextureTags.Item,
             };
 
