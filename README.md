@@ -72,3 +72,20 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Support
 Ask about PixelGraph in the [ShaderLabs Discord](https://discord.gg/PG9RmWTBU9) under `#null-pbr-and-pixelgraph`.
+
+## PixelGraph-101-WinUI
+
+**__PixelGraph 101__** (For Windows UI)
+
+**`Creating A Project :`**
+1) Download PG if you haven't already downloaded it- <https://github.com/null511/PixelGraph> Click on the first thing under `Releases`, then proceed to download **__`PixelGraph-UI-Windows-x64.exe`__**. (PixelGraph will be referred to PG from now on.)
+- 1.1) If met with a this file is dangerous warning, click on the up arrow, and then click on **Keep**.
+- 1.2) You will be met with a popup from Windows Defender SmartScreen, proceed to click on **More Info**, then on **Run anyway**. This program is completely safe!
+2) After PG loads, click on **New Project**,  under Resource Pack Name set your RP's name, click on the folder icon, and set your directory (Make a folder in *your desktop*).
+- 2.1) Click on **Next**, and then **Create**.
+- 2.2) Download `.NET Core 3.1 Desktop Runtime (v3.1.24) - Windows x64` if you haven't already.
+**Congrats! You have created a project!**
+
+**`Importing Textures :`**
+1) Firstly, you need to get your required textures- Albedo, Normal & Roughness/Smoothness. You can draw them, or procedurally make them using softwares like Substance Desinger, or download from CC0 sites- <https://ambientcg.com/>, <https://www.sharetextures.com/>.
+2) Now with PG open with the project, navigate to your project folder, assets > 
