@@ -73,7 +73,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Support
 Ask about PixelGraph in the [ShaderLabs Discord](https://discord.gg/PG9RmWTBU9) under `#null-pbr-and-pixelgraph`.
 
-## PixelGraph-101-WinUI
+## PixelGraph 101 Windows UI
 
 **__PixelGraph 101__** (For Windows UI)
 
@@ -88,4 +88,5 @@ Ask about PixelGraph in the [ShaderLabs Discord](https://discord.gg/PG9RmWTBU9) 
 
 **`Importing Textures :`**
 1) Firstly, you need to get your required textures- Albedo, Normal & Roughness/Smoothness. You can draw them, or procedurally make them using softwares like Substance Desinger, or download from CC0 sites- <https://ambientcg.com/>, <https://www.sharetextures.com/>.
-2) Now with PG open with the project, navigate to your project folder, assets > 
+2) Now with PG open with the project, navigate to your project folder, assets > minecraft > textures > block > make a folder for a block. We will be taking bricks as example.
+- 2.1) This is the bricks texture we will be using (https://ambientcg.com/view?id=Bricks077)
